@@ -1,0 +1,7 @@
+.ipyng_checkpoints/
+deployment/
+images/
+static/
+*.ipynb
+*.text
+.idea/
