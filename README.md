@@ -1,2 +1,2 @@
 # Image-scrapper
-### Used for extracting images from google search for a given word 
+#### Used for extracting images from google search for a given word 
